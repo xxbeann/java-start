@@ -7,8 +7,6 @@
 - JDK: 21
 - IDE: IntelliJ IDEA
 
----
-
 ## 학습 목차 (Code / Notes)
 
 | Section | Topics (Tags) | Code | Notes |
